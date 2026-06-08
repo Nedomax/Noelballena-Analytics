@@ -17,7 +17,7 @@ I'm an IT graduate from San Beda University based in Metro Manila, Philippines. 
 
 ### NYC Food Delivery Performance Analysis
 **Tools:** Power BI, Excel  
-Analyzed 1,898 delivery transactions from FoodHub to diagnose why weekday delivery is 26% slower than weekends despite lower order volume. Isolated the bottleneck to last-mile logistics by showing prep time is nearly identical across day types. Built a two-page Power BI dashboard covering delivery performance by cuisine type and restaurant.
+Looked into why delivery times were so inconsistent across 1,898 orders. The bottleneck turned out to be last-mile logistics rather than the kitchen, which is where I'd assumed the problem was. Built a two-page Power BI dashboard to show the pattern and where the delays were coming from.
 
 🔗 [View Repository](https://github.com/Nedomax/NYC-Food-Delivery-Research.git) ←
 
@@ -25,7 +25,7 @@ Analyzed 1,898 delivery transactions from FoodHub to diagnose why weekday delive
 
 ### Cafe Sales Performance Analysis
 **Tools:** Power BI, Excel, Python  
-Cleaned a deliberately messy 10,000-row synthetic cafe dataset, handling ERROR/UNKNOWN placeholders, recovering 957 rows through recalculation, and documenting every cleaning decision in a Jupyter Notebook. Built a Power BI sales dashboard identifying food items as the primary revenue driver over beverages.
+Cleaned up a messy 10,000-row sales dataset and recovered 957 rows by recalculating the values instead of deleting them. Once it was clean, the numbers showed food brought in more revenue than beverages, which I built into a sales dashboard in Power BI.
 
 🔗 [View Repository](https://github.com/Nedomax/Cafe-Sales-Analysis.git) ←
 
@@ -33,7 +33,7 @@ Cleaned a deliberately messy 10,000-row synthetic cafe dataset, handling ERROR/U
 
 ### Hospital Patient Records - Length of Stay Analysis
 **Tools:** Python, Jupyter Notebook  
-Explored a synthetic hospital dataset to identify factors associated with longer patient stays. Conducted end-to-end EDA using pandas, matplotlib, and seaborn, covering LOS by condition, age group, readmission status, cost, and satisfaction across seven visualizations.
+Ran an exploratory analysis on a hospital dataset to figure out what made some patients stay longer than others. Older patients and those who had been readmitted had the longest stays on average. Wrote it up across seven visualizations in Python.
 
 🔗 [View Repository](https://github.com/Nedomax/Hospital-Patient-Records-Analysis.git) ←
 
