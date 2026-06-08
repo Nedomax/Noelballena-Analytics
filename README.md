@@ -25,15 +25,15 @@ Analyzed 1,898 delivery transactions from FoodHub to diagnose why weekday delive
 
 ### Cafe Sales Performance Analysis
 **Tools:** Power BI, Excel, Python  
-Cleaned a deliberately messy 10,000-row synthetic cafe dataset — handling ERROR/UNKNOWN placeholders, recovering 957 rows through recalculation, and documenting every cleaning decision in a Jupyter Notebook. Built a Power BI sales dashboard identifying food items as the primary revenue driver over beverages.
+Cleaned a deliberately messy 10,000-row synthetic cafe dataset, handling ERROR/UNKNOWN placeholders, recovering 957 rows through recalculation, and documenting every cleaning decision in a Jupyter Notebook. Built a Power BI sales dashboard identifying food items as the primary revenue driver over beverages.
 
 🔗 [View Repository](https://github.com/Nedomax/Cafe-Sales-Analysis.git) ←
 
 ---
 
-### Hospital Patient Records — Length of Stay Analysis
+### Hospital Patient Records - Length of Stay Analysis
 **Tools:** Python, Jupyter Notebook  
-Explored a synthetic hospital dataset to identify factors associated with longer patient stays. Conducted end-to-end EDA using pandas, matplotlib, and seaborn — covering LOS by condition, age group, readmission status, cost, and satisfaction across seven visualizations.
+Explored a synthetic hospital dataset to identify factors associated with longer patient stays. Conducted end-to-end EDA using pandas, matplotlib, and seaborn, covering LOS by condition, age group, readmission status, cost, and satisfaction across seven visualizations.
 
 🔗 [View Repository](https://github.com/Nedomax/Hospital-Patient-Records-Analysis.git) ←
 
