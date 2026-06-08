@@ -48,5 +48,5 @@ Explored a synthetic hospital dataset to identify factors associated with longer
 
 ## Contacts
 
-- Linkidn: [@NoelBallena](https://www.linkedin.com/in/noel-antonio-ballena-834654351/)
+- linkedin: [@NoelBallena](https://www.linkedin.com/in/noel-antonio-ballena-834654351/)
 - Email: ballena.noel@gmail.com
